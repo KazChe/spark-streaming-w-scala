@@ -3,7 +3,7 @@
 ###### kicking the Scala tires
 #### setup
 
-- Have JDK, Scala and Sprk installed and added to your PATH
+- Have JDK, Scala and Spark installed and added to your PATH
 - Test the setup
  
 ```
