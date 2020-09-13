@@ -3,7 +3,7 @@
 ###### kicking the Scala tires
 #### setup
 
-- Have JDK, Scala and Spark installed and added to your PATH
+- Have JDK, Scala (2.11.12) and Spark (spark-3.0.1-bin-hadoop2.7) installed and added to your PATH
 - Test the setup
  
 ```
